@@ -1,0 +1,53 @@
+body {
+    width: 1920px;
+    height: 2524px;
+    background: #F9F9F9;
+}
+
+header {
+    width: 1920px;
+    height: 560px;
+    flex-shrink: 0;
+    background: #D7D4FF;
+}
+
+main {
+    width: 1920px;
+    height: 1214px;
+    background: #F9F9F9;
+}
+
+footer {
+    width: 1920px;
+    height: 750px;
+    flex-shrink: 0;
+    background: #D7D4FF;
+}
+
+footer {
+    width: 100%;
+    background: #D7D4FF;
+    text-align: center;
+    padding: 20px;
+}
+
+.form-table {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.center {
+    text-align: center;
+}
